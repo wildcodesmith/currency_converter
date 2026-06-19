@@ -3,6 +3,7 @@
     margin:0;
     font-family: "Open Sans", sans-serif;
     -webkit-tap-highlight-color: transparent;
+    background-color: transparent;
 }
 
 body{
